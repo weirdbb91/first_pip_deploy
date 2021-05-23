@@ -1,1 +1,1 @@
-it's my first pip deploy, say hi
+it's my first pip deploy, say hi and bye

@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 setup(
     name = "weirdbb91",
-    version = "0.0.1",
-    description = "it's my first pip deploy, say hi",
+    version = "0.0.w",
+    description = "it's my first pip deploy, say hi and bye",
     author = "seungho.baek",
     author_email = "weirdbb91@gmail.com",
     url = "https://github.com/weirdbb91/pypi_deploy_test",
